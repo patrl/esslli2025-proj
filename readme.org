@@ -1,19 +1,17 @@
+# Created 2025-03-25 Tue 09:51
+#+options: toc:nil
 #+title: Explanation and semantic theory: the case of presupposition
+#+author: Patrick D. Elliott and Alexandros Kalomoiros
 #+subtitle: ESSLLI 2025, Language & Logic track
 #+bibliography: ~/texmf/bibtex/bib/master.bib
 #+cite_export: csl
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+#+html_head: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
 #+setupfile: latex-template.org
-#+OPTIONS: toc:nil
-#+EXPORT_FILE_NAME: ./docs/index.html
-#+author: Patrick D. Elliott and Alexandros Kalomoiros
-
-#+CAPTION: Bochum, Stadtgarten (Wilhelm Walther)
-#+ATTR_HTML: :width 512 :style border:2px solid black;
+#+export_file_name: ./docs/index.html
+#+caption: Bochum, Stadtgarten (Wilhelm Walther)
 [[./stadtgarten.jpg]]
 
-Last updated: "[2025-03-25 09:50]" 
-
+Last updated: "[2025-03-25 Tue 09:50]" 
 * Course description
 
 In this class, we chart the development of explanatory approaches to
@@ -32,26 +30,6 @@ a stepping stone to a discussion of the accounts developed by
 which aim for a more satisfactory empirical coverage. Finally, we'll
 consider explanatory theories of projection in light of more
 challenging configurations involving conditionals and quantifiers.
- 
 * References
-  
-#+print_bibliography:
 
-* File local variables                                             :noexport:
-
-# Local Variables:
-# mode: org
-# time-stamp-line-limit: 1000
-# time-stamp-format: "[%Y-%m-%d %H:%M]"
-# time-stamp-active: t
-# time-stamp-start: "Last updated: \""
-# time-stamp-end: "\""
-# org-latex-default-packages-alist: nil
-# org-latex-with-hyperref: nil
-# eval: (add-hook 'before-save-hook (lambda () (if (y-or-n-p "update timestamp?") (time-stamp))) nil t)
-# eval: (add-hook 'after-save-hook (lambda () (if (y-or-n-p "export to org?") (org-export-to-file 'org "readme.org"))) nil t)
-# eval: (add-hook 'after-save-hook (lambda nil (if (y-or-n-p "export to html?") (org-html-export-to-html))) nil t)
-# End:
-
-
-
+#+print_bibliography: 
