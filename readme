@@ -1,0 +1,40 @@
+#+title: Explanation and semantic theory: the case of presupposition
+#+subtitle: ESSLLI 2025, Language & Logic track
+#+bibliography: ~/texmf/bibtex/bib/master.bib
+#+cite_export: csl
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+#+setupfile: latex-template.org
+#+OPTIONS: toc:nil
+#+EXPORT_FILE_NAME: ./docs/index.html
+#+author: Patrick D. Elliott and Alexandros Kalomoiros
+
+#+CAPTION: Bochum, Stadtgarten (Wilhelm Walther)
+#+ATTR_HTML: :width 250 :style border:2px solid black;
+[[./stadtgarten.jpg]]
+
+Last updated: "[2025-03-25 09:32]" 
+
+* TODO Course description
+ 
+* References
+  
+#+print_bibliography:
+
+* File local variables                                             :noexport:
+
+# Local Variables:
+# mode: org
+# time-stamp-line-limit: 1000
+# time-stamp-format: "[%Y-%m-%d %H:%M]"
+# time-stamp-active: t
+# time-stamp-start: "Last updated: \""
+# time-stamp-end: "\""
+# org-latex-default-packages-alist: nil
+# org-latex-with-hyperref: nil
+# eval: (add-hook 'before-save-hook (lambda () (if (y-or-n-p "update timestamp?") (time-stamp))) nil t)
+# eval: (add-hook 'after-save-hook (lambda () (if (y-or-n-p "export to org?") (org-export-to-file 'org "readme.org"))) nil t)
+# eval: (add-hook 'after-save-hook (lambda nil (if (y-or-n-p "export to html?") (org-html-export-to-html))) nil t)
+# End:
+
+
+
