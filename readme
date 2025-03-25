@@ -9,12 +9,29 @@
 #+author: Patrick D. Elliott and Alexandros Kalomoiros
 
 #+CAPTION: Bochum, Stadtgarten (Wilhelm Walther)
-#+ATTR_HTML: :width 250 :style border:2px solid black;
+#+ATTR_HTML: :width 512 :style border:2px solid black;
 [[./stadtgarten.jpg]]
 
-Last updated: "[2025-03-25 09:32]" 
+Last updated: "[2025-03-25 09:44]" 
 
-* TODO Course description
+* Course description
+
+In this class, we chart the development of explanatory approaches to
+presupposition projection. We begin by surveying how classical
+approaches to the projection problem [cite:@Karttunen1973;Heim1983]
+essentially stipulate projection behavior lexically. We'll
+subsequently consider the first wave of explanatory approaches:
+namely, the classic trivalent approaches, and the more recent local
+contexts approach of [cite/t:@Schlenker2009;Schlenker2010].
+We'll then survey recent experimental work on conjunction and
+disjunction, which reveals that the two connectives differ with
+respect to the effect of linear order on projection, something not
+predicted by the first wave of explanatory approaches. This is used as
+a stepping stone to a discussion of the accounts developed by 
+[cite/t:@George2008;George2008a] and [cite/t:@Kalomoiros2023],
+which aim for a more satisfactory empirical coverage. Finally, we'll
+consider explanatory theories of projection in light of more
+challenging configurations involving conditionals and quantifiers.
  
 * References
   
